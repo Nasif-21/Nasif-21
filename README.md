@@ -53,3 +53,5 @@ Here are some ideas to get you started:
 
 ## 📬 How to reach me
 - +8801799214049
+-  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikh-muhtasim-nasif-22951b212)
+-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](+8801521544127)
