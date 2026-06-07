@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 -->
 ## 💬 About Me
 🌟 A software test engineer with hands on experience in automation frameworks, api testing tools, load and stress test, security thread analysis.
-🌱 I’m currently learning AI based software testing using various AI agents
-💭 Have interest in System Design Architecture
-✨
+- 🌱 I’m currently learning AI based software testing using various AI agents
+- 💭 Have interest in System Design Architecture
+- 💖I love to learn and teach new technologies
+
 
 ## ⚙ Skills
 ### 🎰 Coding
