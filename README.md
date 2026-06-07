@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 💬 About Me
-🌟 Born amidst the scenic beauty of Khulna, Bangladesh, on March 21st, my upbringing in diverse districts instilled in me a profound appreciation for the rich tapestry of cultures woven throughout my homeland. Following the completion of my schooling and college education, I embarked on a transformative journey at the American International University, Bangladesh, where I pursued my Bachelor's in Computer Science and Engineering. Here, amidst the bustling world of technology, I discovered that computer science isn't just a field of study; it's an exhilarating adventure waiting to be explored. My passion lies in unraveling the fun and beauty within the realm of computer science, one line of code at a time. ✨
+🌟 A software test engineer with hands on experience in automation frameworks, api testing tools, load and stress test, security thread analysis.
+🌱 I’m currently learning AI based software testing using various AI agents
+💭 Have interest in System Design Architecture
+✨
 
 ## ⚙ Skills
 ### 🎰 Coding
