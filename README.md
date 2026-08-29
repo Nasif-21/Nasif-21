@@ -73,4 +73,3 @@ Here are some ideas to get you started:
 
 ## 📬 How to reach me
 -  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/sheikh-muhtasim-nasif)
--  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](#)
