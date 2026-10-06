@@ -57,6 +57,10 @@ Here are some ideas to get you started:
   [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
   [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
+### 🏗️Load and Performance Testing
+  [![k6](https://img.shields.io/badge/k6-6364FF?logo=k6&logoColor=fff)](#)
+  ![jmeter](https://img.shields.io/badge/jmeter-5.3-%23CB2136)
+
 ### 📰Project Management
   [![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff)](#)
   [![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor)](#)
